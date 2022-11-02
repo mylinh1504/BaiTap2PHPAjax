@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.row-post {
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.form-group label {
+  padding-bottom: 4px;
+  font-size: 18px;
+  color: rgb(7, 8, 10);
+}
+.check {
+  display: flex;
+}
+.form-check {
+  padding-right: 35px;
+}
